@@ -6,17 +6,19 @@ Job Path is a full-stack platform (React + TypeScript frontend, Express backend,
 
 ## About This Fork
 
-This is a fork of the original [Job Path](https://github.com/Neater17/jobpath) repository, developed as our thesis project.
+This is a fork of the original [Job Path](https://github.com/Neater17/jobpath) repository, 
+built as part of our thesis project.
 
-**My role:** Project lead — system architecture, career-path taxonomy design, and ensemble model strategy. I directed the overall research and technical direction of the project.
+**My role:** Contributed to system architecture and career-path taxonomy design, and 
+helped shape the ensemble model approach.
 
-**Implementation:** Core coding and implementation by [Dwayne Carmelo Mongaya](https://github.com/Neater17).
+**Core implementation:** [Dwayne Carmelo Mongaya](https://github.com/Neater17)
 
 **Team:** Fitz Troy Tobias, Jeanne Maverick Velasco
 
 **Mentor:** Justine Jude Pura
 
-**Presented at:** AICON Manila 2026 — Breakout Session Track 3: AI Talent
+**Presented at:** AICON Manila 2026 — Breakout Session Track 3: AI Talent, by the team
 
 ---
 
