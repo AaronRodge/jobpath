@@ -1,4 +1,50 @@
-# JOB-PATH (React + TypeScript)
+
+
+# Job Path — AI-Powered Career Path Recommendation System
+
+Job Path is a full-stack platform (React + TypeScript frontend, Express backend, FastAPI ML service) that helps users identify the career path best suited to their skills using an ensemble recommendation model (logistic regression, random forest, and gradient boosting).
+
+## About This Fork
+
+This is a fork of the original [Job Path](https://github.com/Neater17/jobpath) repository, developed as our thesis project.
+
+**My role:** Project lead — system architecture, career-path taxonomy design, and ensemble model strategy. I directed the overall research and technical direction of the project.
+
+**Implementation:** Core coding and implementation by [Dwayne Carmelo Mongaya](https://github.com/Neater17).
+
+**Team:** Fitz Troy Tobias, Jeanne Maverick Velasco
+
+**Mentor:** Justine Jude Pura
+
+**Presented at:** AICON Manila 2026 — Breakout Session Track 3: AI Talent
+
+---
+
+## My Contribution
+
+- Designed the overall system architecture connecting the frontend, backend, and ML recommendation service
+- Defined the career-path taxonomy (business intelligence, data stewardship, data engineering, data science, AI engineering, applied research) and its role/competency mapping
+- Led the ensemble model strategy — combining logistic regression, random forest, and gradient boosting for recommendation scoring
+- Directed model evaluation methodology (confusion matrices, per-class precision/recall/F1)
+- Presented the project at AICON Manila 2026
+
+---
+
+## Results
+
+*(Fill in with your actual numbers — e.g. ensemble accuracy/F1 from `recommendation-model.v3.evaluation.json`, or a directional result like "the ensemble model outperformed any single classifier on per-class F1 across all six career paths.")*
+
+---
+
+## Tech Stack
+
+`React` · `TypeScript` · `Express` · `MongoDB` · `FastAPI` · `Python 3.11` · `scikit-learn` (or whichever library your models use)
+
+---
+
+## Setup & Technical Documentation
+
+The sections below are the original setup and usage documentation for running the project locally.
 
 ## Dependencies
 Install:
