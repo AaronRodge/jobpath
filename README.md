@@ -12,9 +12,9 @@ built as part of our thesis project.
 **My role:** Contributed to system architecture and career-path taxonomy design, and 
 helped shape the ensemble model approach.
 
-**Core implementation:** [Dwayne Carmelo Mongaya](https://github.com/Neater17)
+**Core implementation:** [Maverick Velasco](https://github.com/Neater17)
 
-**Team:** Fitz Troy Tobias, Jeanne Maverick Velasco
+**Team:** Aaron Rodge Silva, Fitz Troy Tobias, Jeanne Maverick Velasco, Dwayne Mongaya
 
 **Mentor:** Justine Jude Pura
 
